@@ -10,8 +10,8 @@ Sou desenvolvedor front-end com uma paixão por criar interfaces de usuário din
 - 📜 Conhecimentos em JavaScript ES6+, ReactJs, Java,  HTML5, CSS3, BootStrap 5, Python, MySQL, C, entre outras tecnologias.
 
 ### Conecte-se Comigo
-- [GitHub](https://github.com/GuilhermeAMendes)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-mendes)
+- [Gmail](mailto:guilherme.andmendes03@gmail.com)
 
 ### Linguagens e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
