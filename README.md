@@ -18,8 +18,7 @@ Sou desenvolvedor front-end com uma paixão por criar interfaces de usuário din
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
+
 ### Projetos Recentes
 1. **Lumiere**
 Lumière é um sistema de gerenciamento de livros e pessoas desenvolvido com JavaScript, HTML e LocalStorage. Permite adicionar, atualizar, buscar e excluir dados de livros e pessoas, utilizando operações básicas de CRUD.
@@ -38,6 +37,7 @@ Uma aplicação web que permite a coleta de dados dos repositórios de usuários
 - [Gmail](mailto:guilherme.andmendes03@gmail.com)
 
 ### Estatísticas do GitHub
+
 ![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeAMendes&show_icons=true&theme=radical)
 
 ---
