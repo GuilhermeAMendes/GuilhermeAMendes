@@ -19,27 +19,19 @@ Sou desenvolvedor front-end com uma paixão por criar interfaces de usuário din
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  
 ### Projetos Recentes
-1. **Desenvolvimento de Web site para organização de tarefas:**
-   - Sistema capaz de criar tarefas dinamicamente utilizando JavaScript.
-   - Utilização de HTML5, CSS3 e BootStrap 5 para criar uma estrutura bem organizada e esteticamente agradável.
-   - Persistência e recuperação de dados utilizando LocalStorage.
-   - [Link do projeto](#)
-2. **Desenvolvimento de página web mostragem de dados da plataforma GitHub:**
-   - Aplicação que permite a coleta de dados dos repositórios dos usuários da plataforma GitHub utilizando JavaScript ES6 com métodos assíncronos para requisições HTTP, API Axios e Yarn para gerenciamento de pacotes.
-   - Construído com HTML5 e estilizado usando BootStrap 5.
-   - Persistência e recuperação de dados utilizando LocalStorage.
-   - [Link do projeto](#)
-3. **Desenvolvimento de script para automação de mensagens web:**
-   - Elaboração de script Python integrado com as bibliotecas de webbrowser, pyautogui e openpyxl para permitir a leitura de dados de um banco de dados baseado em arquivos .xlsx e encaminhar mensagens automáticas pela API do WhatsApp Web.
-   - Construção de arquivos .csv automáticos para implementação e tratamento de erros de envio.
-   - [Link do projeto](#)
-4. **Protótipo de sistema de gerenciamento de partidas:**
-   - Implementação de um sistema capaz de administrar partidas de futebol utilizando programação orientada a objetos com Java.
-   - Aplicação de métodos CRUD para utilização das funções do sistema.
-   - Construção de classes e interfaces DAO para persistência e recuperação de dados utilizando o banco de dados integrado SQLite.
-   - [Link do projeto](#)
+1. **Lumiere**
+Lumière é um sistema de gerenciamento de livros e pessoas desenvolvido com JavaScript, HTML e LocalStorage. Permite adicionar, atualizar, buscar e excluir dados de livros e pessoas, utilizando operações básicas de CRUD.
+[Link do projeto](https://github.com/GuilhermeAMendes/Lumiere)
+
+2. **React-Stopwatch**
+Um cronômetro simples desenvolvido com ReactJS, oferecendo funcionalidades básicas de iniciar, pausar e resetar. O projeto demonstra o uso de componentes de classe e hooks, enfatizando o gerenciamento de estado e o ciclo de vida dos componentes.
+[Link do projeto](https://github.com/GuilhermeAMendes/React-Stopwatch)
+
+3. **GitRepos**
+Uma aplicação web que permite a coleta de dados dos repositórios de usuários do GitHub. Desenvolvida com JavaScript ES6+, Axios e Yarn, a aplicação faz requisições HTTP assíncronas para exibir informações detalhadas dos repositórios, como nome, descrição e número de estrelas.
+[Link do projeto](https://github.com/GuilhermeAMendes/GitRepos)
 
 ### Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/guilherme-mendes)
