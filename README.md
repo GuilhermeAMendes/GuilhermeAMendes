@@ -33,7 +33,7 @@ Uma aplicação web que permite a coleta de dados dos repositórios de usuários
 [Link do projeto](https://github.com/GuilhermeAMendes/GitRepos)
 
 ### Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/guilherme-mendes)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-mendes-a336a9251/)
 - [Gmail](mailto:guilherme.andmendes03@gmail.com)
 
 ### Estatísticas do GitHub
