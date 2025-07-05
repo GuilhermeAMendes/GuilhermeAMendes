@@ -56,6 +56,6 @@ renderizados de forma estática a partir de estruturas de dados tipadas.
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeAMendes&show_icons=true&theme=radical)
+[![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeAMendes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
