@@ -56,6 +56,16 @@ renderizados de forma estática a partir de estruturas de dados tipadas.
 
 ### Estatísticas do GitHub
 
-[![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeAMendes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAMendes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+  </td>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeAMendes&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+  </td>
+</tr>
+</table>
 
----
+
+
