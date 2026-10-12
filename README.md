@@ -3,11 +3,10 @@
 ### Sobre Mim
 Sou Analista de Desenvolvimento Júnior em P&D, com forte atuação como desenvolvedor Fullstack. Minha experiência abrange desde a criação de interfaces web até a modelagem de banco de dados e arquiteturas back-end orientadas a eventos. Gosto de aplicar princípios de Clean Architecture e explorar novas ferramentas para construir sistemas robustos e escaláveis.
 
-- 💼 Atualmente atuando em **P&D** na **CSDBR** como Analista de Desenvolvimento Júnior. Trabalho com modelagem de dados, desenvolvimento Front/Back-end e gerenciamento de recursos na AWS (Jobs, Lambda, S3), utilizando Clojure, Kafka Streams e Cassandra.
-- 📱 Desenvolvendo aplicações mobile com **React Native** em projetos independentes, como o app **Viva**.
-- 🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP/SCL.
-- 🚀 Experiência prévia com desenvolvimento web no PET ADS e TI na Prominas Brasil.
-- 💻 Conhecimentos sólidos na construção de APIs, infraestrutura modular (NodeJS, Express, Prisma) e interfaces web (NextJS/ReactJS).
+- Atualmente atuando em **P&D** na **CSDBR** como Analista de Desenvolvimento Júnior. Trabalho com modelagem de dados, desenvolvimento Front/Back-end e gerenciamento de recursos na AWS (Jobs, Lambda, S3), utilizando Clojure, Kafka Streams e Cassandra.
+- Desenvolvendo aplicações mobile com **React Native** em projetos independentes, como o app **Viva**.
+- Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP/SCL.
+- Experiência prévia com desenvolvimento web no PET ADS e TI na Prominas Brasil.
 
 ### Linguagens e Tecnologias
 
